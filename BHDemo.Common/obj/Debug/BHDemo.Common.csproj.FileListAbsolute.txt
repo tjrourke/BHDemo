@@ -1,0 +1,6 @@
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\bin\Debug\BHDemo.Common.xml
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\bin\Debug\BHDemo.Common.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\bin\Debug\BHDemo.Common.pdb
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\obj\Debug\BHDemo.Common.csproj.CoreCompileInputs.cache
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\obj\Debug\BHDemo.Common.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Common\obj\Debug\BHDemo.Common.pdb

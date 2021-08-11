@@ -53,7 +53,7 @@ namespace BHDemo.Api.Controllers
         }
 
         /// <summary>
-        /// Makes updates to the specified Reason from the properties in the <param name="updatedItem"></param>.
+        /// Makes updates to the specified Reason from the properties in the <paramref name="updatedItem"></param>.
         /// </summary>
         /// <param name="id">The ID of the Reason to update.</param>
         /// <param name="updatedItem">The Reason with the updated properties.</param>

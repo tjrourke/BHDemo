@@ -1,0 +1,12 @@
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\BHDemo.Data.dll.config
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\BHDemo.Data.xml
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\BHDemo.Data.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\BHDemo.Data.pdb
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\EntityFramework.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\EntityFramework.xml
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\obj\Debug\BHDemo.Data.csproj.CoreCompileInputs.cache
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\obj\Debug\BHDemo.Data.csproj.CopyComplete
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\obj\Debug\BHDemo.Data.dll
+F:\Development\dotnet\Repos\BHDemo\BHDemo.Data\obj\Debug\BHDemo.Data.pdb
